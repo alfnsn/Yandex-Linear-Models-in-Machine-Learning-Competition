@@ -4,7 +4,7 @@ Repositori ini berisi solusi untuk kompetisi **Hackaton Digitalent × Yandex –
 
 ---
 
-## 📌 Deskripsi Singkat
+## Deskripsi Singkat
 Model dibangun menggunakan:
 - **Exploratory Data Analysis (EDA)**
 - **Feature Engineering lanjutan**
@@ -15,7 +15,7 @@ Model dibangun menggunakan:
 
 ---
 
-## 🛠️ Alur Penyelesaian
+## Alur Penyelesaian
 
 ### 1. Exploratory Data Analysis (EDA)
 - Mengecek ukuran dataset, tipe data, dan missing value  
@@ -61,7 +61,7 @@ Model utama menggunakan:
 - Ridge Regression (max_iter=10000)  
 - Tuning alpha (0.5 – 3)
 
-### Output
+## Output
 File submission.csv berisi hasil prediksi.
 
 ## Struktur Repository
